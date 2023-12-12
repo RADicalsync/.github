@@ -1,7 +1,7 @@
 ## Welcome!
 
 This organisation supports open source solutions for robust, accurate Internet timekeeping. 
-It is the new home of the RADclock project, founded at the University of Melbourne circa 2002-3 by Darryl Veitch, and continuing since 2015 at the University of Technology Sydney. The project codebase is in the RADclock repo (currently private), which also includes the FeedForward kernel system clock definitions and API (FFclock) available for FreeBSD and Linux. It also includes a branch for the Network Timing Core (NTC), an architecture for the replacement of the existing system of isolated Stratum-1 islands, with a hardened core layer with self-monitoring and path asymmetry awareness.
+It is the new home of the RADclock project, founded at the University of Melbourne circa 2002-3 by Darryl Veitch, and continuing since 2015 at the University of Technology Sydney. The project codebase is in the RADclock repo, which also includes the FeedForward kernel system clock (FFclock) definitions and API available for FreeBSD and Linux. It also includes a branch for the Network Timing Core (NTC), an architecture for the replacement of the existing system of isolated Stratum-1 islands, with a hardened core layer with self-monitoring and path asymmetry awareness.
 
 Please contact us if you would like to get your hands dirty with the project!
 
